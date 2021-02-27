@@ -69,7 +69,10 @@
 
 ### Day 9:February 8, Monday
 
-**Today's Progress**: Udacity - Introduction to AI in Business and FreeCodeCamp - Applied Visual Design
+**Today's Progress**: 
+
+- Udacity - Introduction to AI in Business 
+- FreeCodeCamp - Applied Visual Design
 
 **Thoughts:** I learned amazing things about CSS and finished the Applied Visual Design challenge on FreeCodeCamp. Also, I started to Build a model lesson on Udacity. Training and evaluating a model is the next step for me. 
 
@@ -93,7 +96,10 @@
 
 ### Day 12: February 11, Thursday
 
-**Today's Progress**: FreeCodeCamp - Applied Accessibility and Udacity - Intro AI - Build a model.
+**Today's Progress**: 
+
+- FreeCodeCamp - Applied Accessibility
+- Udacity - Intro AI - Build a model.
 
 **Thoughts:** I made a to-do list before starting daily progress, I think it motivated me. After that, I'm going to make a to-do list for two days in the 100DaysOfCode challenge.
 
@@ -101,7 +107,11 @@
 
 ### Day 13: February 12, Friday
 
-**Today's Progress**: FreeCodeCamp: Responsive Web Design Principles, Kodluyoruz: Contribution, HackerRank: Java Regex
+**Today's Progress**: 
+
+- FreeCodeCamp: Responsive Web Design Principles
+- Kodluyoruz: Contribution
+- HackerRank: Java Regex
 
 **Thoughts:** FreeCodeCamp: Responsive Web Design Principles, Kodluyoruz: Contribution, start to solve "HackerRank: Java Regex"
 
@@ -113,7 +123,11 @@
 
 ### Day 14: February 13, Saturday
 
-**Today's Progress**: HackerRank-Java and FreeCodeCamp-CSS flexbox,CSS Grid
+**Today's Progress**: 
+
+- HackerRank-Java 
+- FreeCodeCamp-CSS flexbox
+- FreeCodeCamp-CSS Grid
 
 **Thoughts:** Regex challenge solved from HackerRank.  Now I can detect all fake IPs with the regex pattern. ~ I learned amazing things about CSS flexbox. ~ I finished all the interactive parts for the Responsive Web Design challenge at freeCodeCamp. Time to work on some projects.
 
@@ -121,7 +135,10 @@
 
 ### Day 15: February 14, Sunday
 
-**Today's Progress**: Udacity-AI and HackerRank-Java
+**Today's Progress**:
+
+- Udacity-AI 
+- HackerRank-Java
 
 **Thoughts:** Today, I studied AI Udacity and have started to solve the "Java-Valid Username Regular Expression" problem Hackerrank. And reading a lot.
 
@@ -177,7 +194,11 @@
 
 ### Day 22: February 21, Sunday
 
-**Today's Progress**: Udacity-AI and Github-100DaysOfCode and HackerRank-Java
+**Today's Progress**: 
+
+- Udacity-AI 
+- Github-100DaysOfCode
+- HackerRank-Java
 
 **Thoughts:** Today, I finished Phase-1 "Bertelsmann Scholarship - Introduction to AI in Business" from Udacity. It was a great journey, and I learned a lot of valuable knowledge. I hope I can get a chance to be a participant in the full nanodegree.  Also, I refactored my 100DaysOfCode repo from Github. Now I have a backlog and complete list. And I started to solve Java Regex 2 problem at HackerRank.
 
@@ -189,11 +210,97 @@
 
 ### Day 23: February 22, Monday
 
+**Today's Progress**: FreeCodeCamp: Scientific Computing with Python
+
+**Thoughts:** I started the "Scientific Computing with Python" course from FreeCodeCamp. My first goal is to remember my python knowledge and then learn more.
+
+**Link(s) to work: ** -
+
+### Day 24: February 23, Tuesday
+
+**Today's Progress**: Anaconda installation
+
+**Thoughts:** Today, I dealt with Anaconda installation. My OS is Windows  10, and I decided to use Anaconda IDE for Python works. I guessed it would be easy, just next next next. But it didn't happen.  After installing the Anaconda, I couldn't open Anaconda-Navigator. So I solved the problem with the command line. 
+
+* Win-Key+R 
+
+* cmd 
+
+* cd (YourAnacondaFolder)\Scripts
+
+   (Until here I reach the anaconda script folder in my computer, I chose it when installing)
+
+(Continue on command line) 
+
+* activate root 
+
+* conda update -n root conda 
+
+* conda update --all 
+
+* conda update anaconda-navigator 
+
+* anaconda-navigator --reset
+
+* anaconda-navigator 
+
+  Then finally, I could open Anaconda-Navigator
+
+I guess the Anaconda navigator script was broken during the installation process. After opening the IDE, I couldn't re-open it the normal way (with exe). So I got the error "you should activate the environment" The problem is to set the environment on the path. I solved it by adding environments: 
+
+- conda create -n py38 python=3.8 anaconda  
+- set PATH=(AnacondaEnvsFolder)\py38\Scripts;(AnacondaEnvsFolder)\py38;%PATH% 
+- activate py38
+
+I used PyCharm as IDE to code Python before.  I will use Anaconda for one week to make a decision.
+
+**Link(s) to work: ** -
+
+### Day 25: February 24, Wednesday
+
+**Today's Progress**: Read an article about neural networks
+
+**Thoughts:**  Reading...  A clear and great source to start understanding neural networks.
+
+**Link(s) to work: ** https://cezannec.github.io/Intro_Neural_Networks/
+
+### Day 26: February 25, Thursday
+
+**Today's Progress**: FreeCodeCamp - Scientific Computing With Python
+
+**Thoughts:** I studied Python and progressed on the 'Scientific Computing With Python' course. I guess I will finish the interactive part this weekend.  Jupyter notebook is used for progress. It is good to work with small code pieces.  
+
+**Link(s) to work: ** https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody
+
+### Day 27: February 26, Friday
+
+**Today's Progress**: FreeCodeCamp - Scientific Computing With Python
+
+**Thoughts:**  I studied Python and progressed on the 'Scientific Computing With Python' course. I guess I will finish the interactive part this weekend.  Jupyter notebook is used for progress. It is good to work with small code pieces.  
+
+**Link(s) to work: ** https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody
+
+### Day 28: February 27, Saturday
+
 **Today's Progress**: 
+
+- FreeCodeCamp - Scientific Computing With Python 
+- Github - 100DaysOfCode 
+- FreeCodeCamp - Survey From (Start)
+
+**Thoughts:** Today, I continued to study Python, progressing on the 'Scientific Computing With Python' course. I've collected all my code snippets in a GitHub repository.  I used Spyder IDE today. I need to work on the IDE more. Also, I started to code the second project for FreeCodeCamp-Responsive Web Design: Survey Form. I opened a GitHub repository for it.
+
+**Link(s) to work: ** 
+
+- https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody
+- https://github.com/aysedemirel/python-journey
+- https://github.com/aysedemirel/100-days-of-code
+- https://github.com/aysedemirel/project-search-survey
+
+### Day 29: February 28, Sunday
+
+**Today's Progress**:
 
 **Thoughts:** 
 
 **Link(s) to work: ** 
-
-
-

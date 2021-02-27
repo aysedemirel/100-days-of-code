@@ -93,4 +93,27 @@ Today, I finished Phase-1 "Bertelsmann Scholarship - Introduction to AI in Busin
 
 ### R1D23
 
-d
+I started the "Scientific Computing with Python" course from FreeCodeCamp. My first goal is to remember my python knowledge and then learn more. 
+
+### R1D24
+
+Anaconda installation: Today, I dealt with Anaconda installation. My OS is Windows  10, and I decided to use Anaconda IDE for Python works. I guessed it would be easy, just next next next. But it didn't happen.  After installing the Anaconda, I couldn't open Anaconda-Navigator. So I solved the problem with the command line. 
+
+### R1D25
+
+Reading...  A clear and great source to start understanding neural networks. https://cezannec.github.io/Intro_Neural_Networks/
+
+### R1D26
+
+I studied Python and progressed on the 'Scientific Computing With Python' course. I guess I will finish the interactive part this weekend.  Jupyter notebook is used for progress. It is good to work with small code pieces.  
+
+### R1D27
+
+I studied Python and progressed on the 'Scientific Computing With Python' course. I guess I will finish the interactive part this weekend.  Jupyter notebook is used for progress. It is good to work with small code pieces.  
+
+### R1D28
+
+Today, I continued to study Python, progressing on the 'Scientific Computing With Python' course. I've collected all my code snippets in a GitHub repository.  I used Spyder IDE today. I need to work on the IDE more. Also, I started to code the second project for FreeCodeCamp-Responsive Web Design: Survey Form. I opened a GitHub repository for it.
+
+### R1D29
+
