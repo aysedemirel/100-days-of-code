@@ -299,7 +299,15 @@ I used PyCharm as IDE to code Python before.  I will use Anaconda for one week t
 
 ### Day 29: February 28, Sunday
 
-**Today's Progress**:
+**Today's Progress**: FreeCodeCamp - Survey From (Done)
+
+**Thoughts:** I finished the survey form project and pushed it on GitHub. Now it has only the front-end side. After I learned the back-end side, I will put the form on my website to see the suggestions.
+
+**Link(s) to work: ** https://github.com/aysedemirel/project-search-survey
+
+### Day 30: March 1, Monday
+
+**Today's Progress**: 
 
 **Thoughts:** 
 

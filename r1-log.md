@@ -117,3 +117,7 @@ Today, I continued to study Python, progressing on the 'Scientific Computing Wit
 
 ### R1D29
 
+I finished the survey form project and pushed it on GitHub. Now it has only the front-end side. After I learned the back-end side, I will put the form on my website to see the suggestions.
+
+### R1D30
+
