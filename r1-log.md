@@ -121,3 +121,7 @@ I finished the survey form project and pushed it on GitHub. Now it has only the 
 
 ### R1D30
 
+I finished the network part of the Python course from FreeCodeCamp. And I started coding the "Product Landing Page" project, and the product that I will promote is: "Kolonya"
+
+### R1D31
+
