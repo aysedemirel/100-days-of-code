@@ -125,3 +125,7 @@ I finished the network part of the Python course from FreeCodeCamp. And I starte
 
 ### R1D31
 
+Today is not a very productive day. I coded the basic HTML structure for the Kolonya-Product-Landing project.
+
+### R1D32
+
