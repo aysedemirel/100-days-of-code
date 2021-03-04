@@ -129,3 +129,11 @@ Today is not a very productive day. I coded the basic HTML structure for the Kol
 
 ### R1D32
 
+I designed prototype-1 for the Kolonya product landing project. I used the "Justinmind" program to design. I think it is useful to see the result before coding. Designing and coding are in prototype-1.  I need to make the project more lovely.
+
+### R1D33
+
+I designed prototype-1 for the Kolonya product landing project. I used the "Justinmind" program to design. I think it is useful to see the result before coding. Designing and coding are in prototype-1.  I need to make the project more lovely.
+
+### R1D34
+

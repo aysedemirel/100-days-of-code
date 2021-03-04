@@ -329,8 +329,30 @@ I used PyCharm as IDE to code Python before.  I will use Anaconda for one week t
 
 ### Day 32: March 3, Wednesday
 
+**Today's Progress**:  FreeCodeCamp - Product Landing Page
+
+**Thoughts:** I designed prototype-1 for the Kolonya product landing project. I used the "Justinmind" program to design. I think it is useful to see the result before coding. Designing and coding are in prototype-1.  I need to make the project more lovely.
+
+**Link(s) to work: ** 
+
+* https://github.com/aysedemirel/kolonya-product-landing
+* https://www.justinmind.com/
+
+### Day 33: March 4, Thursday
+
+**Today's Progress**:  FreeCodeCamp - Product Landing Page
+
+**Thoughts:** I designed prototype-1 for the Kolonya product landing project. I used the "Justinmind" program to design. I think it is useful to see the result before coding. Designing and coding are in prototype-1.  I need to make the project more lovely.
+
+**Link(s) to work: ** 
+
+* https://github.com/aysedemirel/kolonya-product-landing
+* https://www.justinmind.com/
+
+### Day 32: March 5, Friday
+
 **Today's Progress**: 
 
-**Thoughts:** 
+**Thoughts:**
 
 **Link(s) to work: ** 
