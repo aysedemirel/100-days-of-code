@@ -137,3 +137,6 @@ I designed prototype-1 for the Kolonya product landing project. I used the "Just
 
 ### R1D34
 
+I continued to code the Kolonya product landing project. I learned many things during the project coding and decided to share the knowledge as little notes on Twitter.
+
+### R1D35

@@ -349,7 +349,15 @@ I used PyCharm as IDE to code Python before.  I will use Anaconda for one week t
 * https://github.com/aysedemirel/kolonya-product-landing
 * https://www.justinmind.com/
 
-### Day 32: March 5, Friday
+### Day 34: March 5, Friday
+
+**Today's Progress**: FreeCodeCamp - Product Landing Page
+
+**Thoughts:** I continued to code the Kolonya product landing project. I learned many things during the project coding and decided to share the knowledge as little notes on Twitter.
+
+**Link(s) to work: ** https://github.com/aysedemirel/kolonya-product-landing
+
+### Day 35: March 6, Saturday
 
 **Today's Progress**: 
 
