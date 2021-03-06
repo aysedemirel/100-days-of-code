@@ -359,8 +359,16 @@ I used PyCharm as IDE to code Python before.  I will use Anaconda for one week t
 
 ### Day 35: March 6, Saturday
 
+**Today's Progress**:  FreeCodeCamp - Product Landing Page
+
+**Thoughts:** Completed the Pricing list for the Kolonya product landing project. 
+
+**Link(s) to work: ** https://github.com/aysedemirel/kolonya-product-landing
+
+### Day 36: March 7, Sunday
+
 **Today's Progress**: 
 
-**Thoughts:**
+**Thoughts:** 
 
 **Link(s) to work: ** 
