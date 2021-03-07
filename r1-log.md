@@ -145,3 +145,7 @@ Completed the Pricing list for the Kolonya product landing project.
 
 ### R1D36
 
+Completed the footer for the Kolonya product landing project.
+
+### R1D37
+
