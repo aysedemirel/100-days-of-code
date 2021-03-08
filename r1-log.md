@@ -149,3 +149,6 @@ Completed the footer for the Kolonya product landing project.
 
 ### R1D37
 
+Completed the Kolonya product landing project. Passed all of the test cases.
+
+### R1D38
