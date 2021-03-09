@@ -383,6 +383,14 @@ I used PyCharm as IDE to code Python before.  I will use Anaconda for one week t
 
 ### Day 37: March 9, Tuesday
 
+**Today's Progress**: Socket Programming (Java)
+
+**Thoughts:** I worked on the server-client project. I opened a repository on Github. In the first place, I added three examples for java. I plan to add for C ++ and Python as well.
+
+**Link(s) to work: ** https://github.com/aysedemirel/Socket-Programming
+
+### Day 38: March 10, Wednesday
+
 **Today's Progress**: 
 
 **Thoughts:** 

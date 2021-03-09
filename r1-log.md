@@ -152,3 +152,7 @@ Completed the footer for the Kolonya product landing project.
 Completed the Kolonya product landing project. Passed all of the test cases.
 
 ### R1D38
+
+I worked on the server-client project. I opened a repository on GitHub. In the first place, I added three examples for java. I plan to add for C ++ and Python as well.
+
+### R1D39
