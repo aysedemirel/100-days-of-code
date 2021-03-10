@@ -156,3 +156,7 @@ Completed the Kolonya product landing project. Passed all of the test cases.
 I worked on the server-client project. I opened a repository on GitHub. In the first place, I added three examples for java. I plan to add for C ++ and Python as well.
 
 ### R1D39
+
+Day 39: I started learning JavaScript. I was curious about Visual Studio Code, so I downloaded it to try while coding JavaScript.
+
+### R1D40

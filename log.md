@@ -381,7 +381,7 @@ I used PyCharm as IDE to code Python before.  I will use Anaconda for one week t
 
 **Link(s) to work: ** https://github.com/aysedemirel/kolonya-product-landing
 
-### Day 37: March 9, Tuesday
+### Day 38: March 9, Tuesday
 
 **Today's Progress**: Socket Programming (Java)
 
@@ -389,7 +389,18 @@ I used PyCharm as IDE to code Python before.  I will use Anaconda for one week t
 
 **Link(s) to work: ** https://github.com/aysedemirel/Socket-Programming
 
-### Day 38: March 10, Wednesday
+### Day 39: March 10, Wednesday
+
+**Today's Progress**: FreeCodeCamp-Basic JavaScript(Start)
+
+**Thoughts:** I started learning JavaScript. I was curious about Visual Studio Code, so I downloaded it to try while coding JavaScript.
+
+**Link(s) to work: ** 
+
+* https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
+* https://github.com/aysedemirel/js-tutorial
+
+### Day 40: March 11, Thursday
 
 **Today's Progress**: 
 
