@@ -157,6 +157,11 @@ I worked on the server-client project. I opened a repository on GitHub. In the f
 
 ### R1D39
 
-Day 39: I started learning JavaScript. I was curious about Visual Studio Code, so I downloaded it to try while coding JavaScript.
+I started learning JavaScript. I was curious about Visual Studio Code, so I downloaded it to try while coding JavaScript.
 
 ### R1D40
+
+ I designed a messaging app with Justinmind. I plan to code the desktop and web versions. I started coding with Java for the desktop version.
+
+### R1D41
+

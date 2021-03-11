@@ -402,6 +402,14 @@ I used PyCharm as IDE to code Python before.  I will use Anaconda for one week t
 
 ### Day 40: March 11, Thursday
 
+**Today's Progress**: Message App (Java)
+
+**Thoughts:**  I designed a messaging app with Justinmind. I plan to code the desktop and web versions. I started coding with Java for the desktop version.
+
+**Link(s) to work: ** https://github.com/aysedemirel/Socket-Programming
+
+### Day 41: March 12, Friday
+
 **Today's Progress**: 
 
 **Thoughts:** 
