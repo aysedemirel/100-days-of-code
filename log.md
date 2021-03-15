@@ -410,8 +410,40 @@ I used PyCharm as IDE to code Python before.  I will use Anaconda for one week t
 
 ### Day 41: March 12, Friday
 
+**Today's Progress**:  Message App (Java)
+
+**Thoughts:** Continued coding for messaging app with Java.
+
+**Link(s) to work: **  https://github.com/aysedemirel/Socket-Programming/tree/master/MessageApp
+
+### Day 42: March 13, Saturday
+
+**Today's Progress**: Message App (Java)
+
+**Thoughts:** I have coded messaging app with Java. Most of the time, I made an effort on the front-end.
+
+**Link(s) to work:**  https://github.com/aysedemirel/Socket-Programming/tree/master/MessageApp
+
+### Day 43: March 14, Sunday
+
+**Today's Progress**: Message App (Java)
+
+**Thoughts:** I have coded messaging app with Java. Most of the time, I made an effort on the front-end. 
+
+**Link(s) to work:**  https://github.com/aysedemirel/Socket-Programming/tree/master/MessageApp
+
+### Day 44: March 15, Monday
+
+**Today's Progress**: Message App (Java)
+
+**Thoughts:** I have coded messaging app with Java. Most of the time, I made an effort on the front-end. I read about miglayout and learned it.
+
+**Link(s) to work:**  https://github.com/aysedemirel/Socket-Programming/tree/master/MessageApp
+
+### Day 45: March 16, Tuesday
+
 **Today's Progress**: 
 
 **Thoughts:** 
 
-**Link(s) to work: ** 
+**Link(s) to work:**  

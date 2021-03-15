@@ -165,3 +165,19 @@ I started learning JavaScript. I was curious about Visual Studio Code, so I down
 
 ### R1D41
 
+Continued coding for messaging app with Java.
+
+### R1D42
+
+I have coded messaging app with Java. Most of the time, I made an effort on the front-end.
+
+### R1D43
+
+I have coded messaging app with Java. Most of the time, I made an effort on the front-end. 
+
+### R1D44
+
+I have coded messaging app with Java. Most of the time, I made an effort on the front-end. I read about miglayout and learned it.
+
+### R1D45
+
